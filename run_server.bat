@@ -1,2 +1,3 @@
 @echo off
+start python main.py
 java -jar server.jar

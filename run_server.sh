@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-java -jar server.jar
+gnome-terminal --command="python3 main.py"
+java  -jar server.jar
